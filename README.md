@@ -5,6 +5,8 @@
 * Phase 1: until 6 September 2020 (3 months)
 * Phase 2: until 6 November 2020 (2 months) 
 
+![picture alt](https://live.staticflickr.com/65535/49978863083_9a84086dc9_b.jpg)
+
 ## Resources Used
 **Books:**
 * Grokking Algorithms

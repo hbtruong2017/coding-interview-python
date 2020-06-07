@@ -2,4 +2,6 @@
 
 Singly Linked List
 Doubly Linked List
-Circular Linked List
+Singly LInked List Cycle Check
+Reverse Linked List
+Find Nth To Last Node

@@ -1,66 +1,66 @@
 # Coding Interview Preparation
 
-## Revision Plan
-**Start date:** 6 June 2020
+Tracking Progress [here](https://docs.google.com/spreadsheets/d/1qPwWONO_VoPPetX-QV9Zw2Dut5UljQp2EZcTdM9_pLQ/edit#gid=0)
 
-### Data Structure
+## Data Structure
 
 Num   | Topic               | Status
 ----- | ------------------- | --------
-  1   | Dynamic Array       | []
-  2   | Linked List         | [x]
-  3   | Stack & Queue       | []
-  4   | Hash Tables         | []
-  5   | Binary Search Tree  | [] 
-  6   | Binary Heaps        | []
-  7   | Priority Queue      | []
-  8   | Graphs              | []
-  9   | Trie                | []
+  1   | Dynamic Array       | 
+  2   | Linked List         | ✅ :white_check_mark:
+  3   | Stack & Queue       |  
+  4   | Hash Tables         |  
+  5   | Binary Search Tree  |   
+  6   | Binary Heaps        |  
+  7   | Priority Queue      |  
+  8   | Graphs              |  
+  9   | Trie                |  
 
-### Algorithm
+## Algorithm
 
 Num   | Topic                       | Notes                                     | Status   
 ----- | --------------------------- | ------------------------------------------| ----------
-  1   | Bit Manipulation & Numbers  | Difference btw Unsigned vs signed numbers | []
-  2   | Stability in Sorting        |                                           | []
-  3   | Mergesort                   |                                           | []
-  4   | Quicksort                   |                                           | []
-  5   | Heapsort                    | Sort it in-place to get O(1) space        | []
-  6   | Binary Search               |                                           | []   
-  7   | Selections                  | Kth Smallest Elements (Sort, QuickSelect, Mediums of Mediums) — Implement all three ways  | []  
-  8   | Permutations                |                                           | []
-  9   | Subsets                     |                                           | []
-  10  | BFS Graph                   |                                           | []
-  11  | DFS Graph                   |                                           | []
-  12  | Dijkstra’s Algorithm        | Just learn the idea — no need to implement| []
-  13  | Tree Traversals             | BFS, DFS (in-order, pre-order, post-order): Implement Recursive and Iterative | []
-  14  | External Sort               | No implementation. Just know the concept  | []
-  15  | NP-Complete                 | No implementation. Just know the concept  | []
-  16  | Topological Sort            |                                           | []
-  17  | Detect cycle in an undirected graph |                                   | []
-  18  | Detect cycle in a directed graph |                                      | []
-  19  | Count connected components in a graph |                                 | []
-  20  | Find strongly connected components in a graph |                         | []
+  1   | Bit Manipulation & Numbers  | Difference btw Unsigned vs signed numbers |  
+  2   | Stability in Sorting        |                                           |  
+  3   | Mergesort                   |                                           |  
+  4   | Quicksort                   |                                           |  
+  5   | Heapsort                    | Sort it in-place to get O(1) space        |  
+  6   | Binary Search               |                                           |     
+  7   | Selections                  | Kth Smallest Elements (Sort, QuickSelect, Mediums of Mediums) — Implement all three ways  |    
+  8   | Permutations                |                                           |  
+  9   | Subsets                     |                                           |  
+  10  | BFS Graph                   |                                           |  
+  11  | DFS Graph                   |                                           |  
+  12  | Dijkstra’s Algorithm        | Just learn the idea — no need to implement|  
+  13  | Tree Traversals             | BFS, DFS (in-order, pre-order, post-order): Implement Recursive and Iterative |  
+  14  | External Sort               | No implementation. Just know the concept  |  
+  15  | NP-Complete                 | No implementation. Just know the concept  |  
+  16  | Topological Sort            |                                           |  
+  17  | Detect cycle in an undirected graph |                                   |  
+  18  | Detect cycle in a directed graph |                                      |  
+  19  | Count connected components in a graph |                                 |  
+  20  | Find strongly connected components in a graph |                         |  
 
-### Must-know exercise
+## Must-know exercise
 
 Do the following exercise multiple times (at least 2–3 times) until you can do them with your eyes closed.
 
 Num   | Topic                               | Status
 ----- | ------------------------------------| --------
-  1   | Implement an ArrayList from scratch | []
-  2   | Reverse a linked list               | [x]
-  3   | Implement a Stack & a Queue using Array | []
-  4   | Implement a HashTable with simple Hashing functions | []
-  5   | Implement a Graph using Adjacency List, and then write functions for BFS & DFS | [] 
-  6   | Write the binary search algorithm both recursively and iteratively | []
-  7   | Write the merge sort algorithm      | []
-  8   | Write the quicksort algorithm       | []
-  9   | Print binary tree using DFS (in-order, preorder and post order — all three of them) and BFS | []
-  10  | Memorize time & space complexities for common algorithms [link](https://www.bigocheatsheet.com/) | []
-  11  | Implement a trie.                   | []
-  12  | Learn important bit manipulation tricks. | []
+  1   | Implement an ArrayList from scratch |   
+  2   | Reverse a linked list               | ✅ :white_check_mark:
+  3   | Implement a Stack & a Queue using Array | 
+  4   | Implement a HashTable with simple Hashing functions |  
+  5   | Implement a Graph using Adjacency List, and then write functions for BFS & DFS |   
+  6   | Write the binary search algorithm both recursively and iteratively |  
+  7   | Write the merge sort algorithm      |  
+  8   | Write the quicksort algorithm       |  
+  9   | Print binary tree using DFS (in-order, preorder and post order — all three of them) and BFS |  
+  10  | Memorize time & space complexities for common algorithms [link](https://www.bigocheatsheet.com/) |  
+  11  | Implement a trie.                   |  
+  12  | Learn important bit manipulation tricks. |  
 
+# Revision Plan
 
 ## Timeline
 * Start date: 6 June 2020

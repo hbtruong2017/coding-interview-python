@@ -5,9 +5,9 @@ Tracking Progress [here](https://docs.google.com/spreadsheets/d/1qPwWONO_VoPPetX
 ## Data Structure
 
 Num   | Topic               | Status
------ | ------------------- | --------
+----- | ------------------- | -------
   1   | Dynamic Array       | 
-  2   | Linked List         | ✅ :white_check_mark:
+  2   | Linked List         | ✅
   3   | Stack & Queue       |  
   4   | Hash Tables         |  
   5   | Binary Search Tree  |   
@@ -19,7 +19,7 @@ Num   | Topic               | Status
 ## Algorithm
 
 Num   | Topic                       | Notes                                     | Status   
------ | --------------------------- | ------------------------------------------| ----------
+----- | --------------------------- | ------------------------------------------| -------
   1   | Bit Manipulation & Numbers  | Difference btw Unsigned vs signed numbers |  
   2   | Stability in Sorting        |                                           |  
   3   | Mergesort                   |                                           |  
@@ -46,9 +46,9 @@ Num   | Topic                       | Notes                                     
 Do the following exercise multiple times (at least 2–3 times) until you can do them with your eyes closed.
 
 Num   | Topic                               | Status
------ | ------------------------------------| --------
+----- | ------------------------------------| -------
   1   | Implement an ArrayList from scratch |   
-  2   | Reverse a linked list               | ✅ :white_check_mark:
+  2   | Reverse a linked list               | ✅ 
   3   | Implement a Stack & a Queue using Array | 
   4   | Implement a HashTable with simple Hashing functions |  
   5   | Implement a Graph using Adjacency List, and then write functions for BFS & DFS |   

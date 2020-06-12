@@ -15,7 +15,7 @@ Num   | Topic               | Status
   7   | Priority Queue      |  
   8   | Graphs              |  
   9   | Trie                |  
-
+  10  | Array               | ✅
 ## Algorithm
 
 Num   | Topic                       | Notes                                     | Status   

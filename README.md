@@ -8,7 +8,7 @@ Num   | Topic               | Status
 ----- | ------------------- | -------
   1   | Dynamic Array       | 
   2   | Linked List         | ✅
-  3   | Stack & Queue       |  
+  3   | Stack & Queue       | ✅ 
   4   | Hash Tables         |  
   5   | Binary Search Tree  |   
   6   | Binary Heaps        |  
@@ -16,6 +16,7 @@ Num   | Topic               | Status
   8   | Graphs              |  
   9   | Trie                |  
   10  | Array               | ✅
+  
 ## Algorithm
 
 Num   | Topic                       | Notes                                     | Status   
@@ -49,7 +50,7 @@ Num   | Topic                               | Status
 ----- | ------------------------------------| -------
   1   | Implement an ArrayList from scratch |   
   2   | Reverse a linked list               | ✅ 
-  3   | Implement a Stack & a Queue using Array | 
+  3   | Implement a Stack & a Queue using Array | ✅
   4   | Implement a HashTable with simple Hashing functions |  
   5   | Implement a Graph using Adjacency List, and then write functions for BFS & DFS |   
   6   | Write the binary search algorithm both recursively and iteratively |  

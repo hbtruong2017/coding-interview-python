@@ -41,6 +41,12 @@ Num   | Topic                       | Notes                                     
   18  | Detect cycle in a directed graph |                                      |  
   19  | Count connected components in a graph |                                 |  
   20  | Find strongly connected components in a graph |                         |  
+  21  | Greedy algorithm            |                                           |
+  22  | Subsequence                 |                                           |
+  23  | Dynamic programming         |                                           |
+  24  | Recursion                   |                                           |
+  25  | Sliding windows             |                                           |
+  26  | Two pointers                |                                           |
 
 ## Must-know exercise
 
@@ -61,6 +67,17 @@ Num   | Topic                               | Status
   11  | Implement a trie.                   |  
   12  | Learn important bit manipulation tricks. |  
 
+## Technology
+
+Num   | Topic   | Status
+----- | --------| -------
+  1   | OOP     |
+  2   | SQL     |   
+  3   | Caching |
+  4   | Containerisation and cluster management |
+  5   | Operating System |
+  6   | Networking |
+
 # Revision Plan
 
 ## Timeline
@@ -78,6 +95,7 @@ Num   | Topic                               | Status
 
 **Courses:**
 * Python for Algorithms, Data-Structures, and Interviews! - Jupyter Notebook resource [link](https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/)
+* Grokking the System Design Interview [link](https://drive.google.com/file/d/1R2LWgZ1r-Wb46AaqlYUHk7T0WvWkGieZ/view)
 
 **Online Problems:**
 *  LeetCode
